@@ -35,7 +35,7 @@ k = nx.strongly_connected_component_subgraphs(G,copy=True)
 scc = open(sccfile,'w')
 n = 1
 for i in k:
-    if i.edges() != []: #去除孤立的TF
+    if i.edges() != []: #filter isolated TFs
         nstr = 'S'+str(n)+'\t'+str(i.nodes())+'\t'+str(i.edges())+'\n'
         nstr = nstr.replace("[" ,"").replace("]",'').replace('\'','')
         scc.write(nstr)
