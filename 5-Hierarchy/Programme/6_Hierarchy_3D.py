@@ -11,9 +11,9 @@ Created on Thu Jul 27 13:33:03 2017
 
 # os.chdir("/Users/dongqing/Desktop/Yeast")
 
-trnfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Data/TRN_dist.txt'
-hierfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/Hierarchical_level.txt'
-outfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/hir_3d.txt'
+trnfile = '5-Hierarchy/Data/TRN_dist.txt'
+hierfile = '5-Hierarchy/Result/Hierarchical_level.txt'
+outfile = '5-Hierarchy/Result/hir_3d.txt'
 
 gene_list=[]        
 for line in open(trnfile).readlines()[1:]:

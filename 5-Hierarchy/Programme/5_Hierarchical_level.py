@@ -11,11 +11,11 @@ Created on Thu Jul 27 11:32:48 2017
 
 # os.chdir("/Users/dongqing/Desktop/Yeast")
 
-sccfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/SCC.txt'
-trnfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/TRN_TF_SCC.txt'
-tf_set = 'D:/3D/YEAST/YEAST/5-Hierarchy/Data/TRUE_TF.txt'
+sccfile = '5-Hierarchy/Result/SCC.txt'
+trnfile = '5-Hierarchy/Result/TRN_TF_SCC.txt'
+tf_set = '5-Hierarchy/Result/TRUE_TF.txt'
 
-hirfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/Hierarchical_level.txt'
+hirfile = '5-Hierarchy/Result/Hierarchical_level.txt'
 
 tflst = []
 for line in open(tf_set):

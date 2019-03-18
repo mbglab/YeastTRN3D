@@ -11,7 +11,7 @@ Created on Wed Jul 26 14:32:02 2017
 
 # os.chdir("/Users/dongqing/Desktop/Yeast")
 
-tffile = '5-Hierarchy/Data/TRUE_TF.txt'
+tffile = '5-Hierarchy/Result/TRUE_TF.txt'
 tf_trnfile = '5-Hierarchy/Result/TRN_TFonly_dist.txt'
 outfile = '5-Hierarchy/Result/isolated_TF.txt'
 

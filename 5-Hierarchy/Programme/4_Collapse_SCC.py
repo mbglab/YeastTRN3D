@@ -11,9 +11,9 @@ Created on Thu Jul 27 11:07:53 2017
 
 # os.chdir("/Users/dongqing/Desktop/Yeast")
 
-sccfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/SCC.txt'
-trnfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/TRN_TFonly_dist.txt'
-outfile = 'D:/3D/YEAST/YEAST/5-Hierarchy/Result/TRN_TF_SCC.txt'
+sccfile = '5-Hierarchy/Result/SCC.txt'
+trnfile = '5-Hierarchy/Result/TRN_TFonly_dist.txt'
+outfile = '5-Hierarchy/Result/TRN_TF_SCC.txt'
 
 sccdict = {}
 for line in open(sccfile):
