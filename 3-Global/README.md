@@ -18,7 +18,7 @@ In this part, the result files are too large to be stored here in github. Please
   * ALL_dist.txt
 * Code:
   * 2_linux_All_remote.py
-* Output: (The two output file is too large to be stored here.)
+* Output: (The output file is too large to be stored here.)
   * ALL_remote_dist(50kb).txt
 
 ### c. Analyze the global features
