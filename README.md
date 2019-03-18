@@ -74,7 +74,7 @@ Combine TRN and 3D model of the yeast
   * ALL_dist.txt
 * Code:
   * 2_linux_All_remote.py
-* Output:
+* Output: (The two output file is too large to be stored here.)
   * ALL_remote_dist(50kb).txt
 
 ### c. Analyze the global features
