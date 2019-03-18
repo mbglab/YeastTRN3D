@@ -41,15 +41,15 @@ def dist(x):
 
 inter.loc[:,'distance']=inter.apply(dist,axis=1)
 
-#定义一个函数把每行变成一个字符串
+# convert each line in df to string
 def writetostr(x):
     x[3] = "%.3f"%x[3]
     line = '\t'.join(x)
     return line
-#在数据框中新添一列存放每一行的字符串
+
 inter.loc[:,'strline']=inter.apply(writetostr,axis=1)
 
-#把新的一列以换行符链接合成一个字符串
+
 lines = 'id1\tid2\treg\tdistance\n' + '\n'.join(inter.loc[:,'strline'])
 
 dist_result=open(dist_file,'w')
