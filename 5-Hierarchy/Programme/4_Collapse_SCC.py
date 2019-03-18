@@ -23,7 +23,7 @@ for line in open(sccfile):
         sccdict.update(sccitem)
 #print sccdict,len(sccdict)
 
-#将以基因名表示的TRN转化为SCC表示的TRN
+# convert the gene to corresponding SCC
 trnscclst = []
 for line in open(trnfile).readlines()[1:]:
     items = line.strip().split('\t')
