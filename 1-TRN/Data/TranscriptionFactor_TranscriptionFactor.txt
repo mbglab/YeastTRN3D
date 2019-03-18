@@ -1,0 +1,1269 @@
+YJL127C	YAL001C	?
+YNL330C	YAL001C	binding enriched
+YPL254W	YAL001C	-
+YOR110W	YAL051W	binding enriched
+YDR207C	YBL005W	binding enriched
+YGR252W	YBL005W	binding enriched
+YIL101C	YBL005W	binding enriched
+YLR403W	YBL005W	-
+YJL127C	YBL008W	?
+YDR259C	YBL014C	binding enriched
+YJL127C	YBL014C	?
+YKL112W	YBL014C	-
+YJL127C	YBL025W	?
+YLR403W	YBL025W	-
+YLR403W	YBL025W	?
+YDR423C	YBL054W	-
+YDR463W	YBL054W	binding enriched
+YIL101C	YBL054W	binding enriched
+YIR018W	YBL054W	binding enriched
+YJL127C	YBL054W	?
+YLR403W	YBL054W	?
+YOR110W	YBL054W	binding enriched
+YBR049C	YBL082C	+
+YIL036W	YBL082C	+
+YJL127C	YBL082C	?
+YNL216W	YBL082C	+
+YPL075W	YBL082C	+
+YDR253C	YBL093C	bound
+YDR423C	YBL093C	-
+YIL101C	YBL093C	binding enriched
+YLR176C	YBL093C	binding enriched
+YLR403W	YBL093C	-
+YLR403W	YBL093C	?
+YML007W	YBL093C	-
+YNL216W	YBL093C	binding enriched
+YBL103C	YBL103C	+
+YBR049C	YBL103C	binding enriched
+YDL106C	YBL103C	binding enriched
+YIR018W	YBL103C	?
+YOR110W	YBL103C	binding enriched
+YBR081C	YBR049C	binding enriched
+YBR112C	YBR049C	binding enriched
+YDL005C	YBR049C	binding enriched
+YDR392W	YBR049C	binding enriched
+YPL254W	YBR049C	binding enriched
+YPR086W	YBR049C	binding enriched
+YDL005C	YBR066C	binding enriched
+YDR146C	YBR066C	binding enriched
+YDR253C	YBR066C	bound
+YDR392W	YBR066C	binding enriched
+YDR463W	YBR066C	binding enriched
+YER159C	YBR066C	binding enriched
+YIR018W	YBR066C	binding enriched
+YJL056C	YBR066C	binding enriched
+YJL056C	YBR066C	+
+YJL056C	YBR066C	?
+YLR403W	YBR066C	-
+YLR403W	YBR066C	-
+YML007W	YBR066C	binding enriched
+YNL068C	YBR066C	binding enriched
+YNL236W	YBR066C	-
+YNL330C	YBR066C	binding enriched
+YOR174W	YBR066C	binding enriched
+YPR104C	YBR066C	binding enriched
+YBR049C	YBR070C	binding enriched
+YBR083W	YBR070C	+
+YDR146C	YBR070C	binding enriched
+YDR392W	YBR070C	binding enriched
+YGR104C	YBR070C	binding enriched
+YGR116W	YBR070C	binding enriched
+YGR252W	YBR070C	binding enriched
+YHR084W	YBR070C	+
+YJL056C	YBR070C	binding enriched
+YJL127C	YBR070C	?
+YLR071C	YBR070C	binding enriched
+YLR403W	YBR070C	-
+YLR403W	YBR070C	?
+YPL254W	YBR070C	binding enriched
+YPR104C	YBR070C	binding enriched
+YDR259C	YBR083W	binding enriched
+YKL015W	YBR083W	binding enriched
+YKL032C	YBR083W	+
+YOL148C	YBR083W	+
+YPL254W	YBR083W	+
+YGR252W	YBR089C-A	binding enriched
+YIL131C	YBR089C-A	binding enriched
+YBR112C	YBR112C	binding enriched
+YOR174W	YBR112C	binding enriched
+YLR403W	YBR123C	?
+YOL145C	YBR123C	binding enriched
+YHL027W	YBR182C	-
+YJL127C	YBR182C	?
+YNL216W	YBR182C	binding enriched
+YDR259C	YBR215W	binding enriched
+YIL131C	YBR215W	binding enriched
+YIR018W	YBR215W	?
+YJL127C	YBR215W	?
+YKL032C	YBR215W	-
+YGR252W	YBR240C	binding enriched
+YIL101C	YBR240C	binding enriched
+YIL131C	YBR240C	binding enriched
+YIR018W	YBR240C	?
+YJL127C	YBR240C	?
+YLR403W	YBR240C	?
+YOR110W	YBR240C	binding enriched
+YDR259C	YBR243C	binding enriched
+YNL216W	YBR243C	+
+YPL075W	YBR243C	+
+YBR049C	YBR253W	binding enriched
+YDR463W	YBR279W	binding enriched
+YBR049C	YCL010C	+
+YGR252W	YCL010C	binding enriched
+YNL216W	YCL010C	+
+YPL075W	YCL010C	+
+YEL009C	YCL055W	?
+YKL015W	YCL055W	binding enriched
+YLR403W	YCL055W	-
+YLR403W	YCL055W	-
+YMR070W	YCL055W	-
+YNL216W	YCL055W	-
+YDR259C	YCL066W	binding enriched
+YER040W	YCL066W	+
+YJL127C	YCL066W	?
+YOR110W	YCL066W	binding enriched
+YKL032C	YCR039C	+
+YKL032C	YCR039C	-
+YLR176C	YCR039C	binding enriched
+YBR112C	YCR040W	binding enriched
+YDR259C	YCR040W	binding enriched
+YLR176C	YCR040W	binding enriched
+YOR110W	YCR040W	binding enriched
+YGL073W	YCR065W	+
+YIL131C	YCR065W	binding enriched
+YIR018W	YCR081W	binding enriched
+YJL127C	YCR081W	?
+YIL036W	YCR084C	+
+YKL032C	YCR084C	-
+YNL216W	YCR084C	+
+YPL075W	YCR084C	+
+YDR259C	YCR097W	binding enriched
+YGR252W	YCR097W	binding enriched
+YOL116W	YCR097W	-
+YBR049C	YDL005C	binding enriched
+YIL101C	YDL005C	binding enriched
+YLR176C	YDL005C	binding enriched
+YBR081C	YDL020C	binding enriched
+YDR392W	YDL020C	binding enriched
+YDR397C	YDL020C	binding enriched
+YER159C	YDL020C	binding enriched
+YGR104C	YDL020C	binding enriched
+YGR116W	YDL020C	binding enriched
+YGR252W	YDL020C	binding enriched
+YLR403W	YDL020C	?
+YML007W	YDL020C	binding enriched
+YPR086W	YDL020C	binding enriched
+YPR104C	YDL020C	binding enriched
+YDL005C	YDL040C	binding enriched
+YDL170W	YDL040C	binding enriched
+YLR176C	YDL040C	binding enriched
+YOR110W	YDL040C	binding enriched
+YDL170W	YDL106C	binding enriched
+YER159C	YDL106C	binding enriched
+YGR252W	YDL106C	binding enriched
+YIL101C	YDL106C	binding enriched
+YML007W	YDL106C	binding enriched
+YOR174W	YDL106C	binding enriched
+YGR252W	YDL137W	binding enriched
+YIL131C	YDL137W	binding enriched
+YLR403W	YDL137W	?
+YNL216W	YDL137W	binding enriched
+YOR174W	YDL137W	binding enriched
+YBR049C	YDL170W	binding enriched
+YLR071C	YDL170W	binding enriched
+YLR403W	YDL170W	?
+YLR403W	YDL192W	?
+YMR016C	YDL192W	+
+YNL216W	YDL192W	binding enriched
+YOR344C	YDL192W	-
+YPL075W	YDL192W	+
+YDL005C	YDR034C	binding enriched
+YDL170W	YDR034C	binding enriched
+YIL131C	YDR034C	binding enriched
+YLR451W	YDR034C	binding enriched
+YBR112C	YDR043C	binding enriched
+YDR207C	YDR043C	binding enriched
+YDR397C	YDR043C	binding enriched
+YDR463W	YDR043C	binding enriched
+YJL127C	YDR043C	?
+YNL216W	YDR043C	binding enriched
+YPR086W	YDR043C	binding enriched
+YDR146C	YDR081C	binding enriched
+YDR253C	YDR096W	bound
+YLR403W	YDR096W	?
+YNL103W	YDR096W	?
+YDR259C	YDR123C	binding enriched
+YDR392W	YDR123C	binding enriched
+YGR252W	YDR123C	binding enriched
+YHL020C	YDR123C	-
+YIL131C	YDR123C	binding enriched
+YLR071C	YDR123C	binding enriched
+YLR176C	YDR123C	binding enriched
+YNL330C	YDR123C	binding enriched
+YOR174W	YDR123C	binding enriched
+YBR049C	YDR146C	binding enriched
+YGR252W	YDR146C	binding enriched
+YIL101C	YDR146C	binding enriched
+YPL254W	YDR146C	binding enriched
+YDR253C	YDR169C	bound
+YNL103W	YDR169C	?
+YDL170W	YDR176W	binding enriched
+YDR463W	YDR176W	binding enriched
+YIR018W	YDR176W	binding enriched
+YDL005C	YDR207C	binding enriched
+YIL131C	YDR207C	binding enriched
+YML007W	YDR207C	binding enriched
+YOR174W	YDR207C	binding enriched
+YPR104C	YDR207C	binding enriched
+YDL170W	YDR213W	binding enriched
+YDR259C	YDR213W	binding enriched
+YLR071C	YDR213W	binding enriched
+YIL101C	YDR216W	binding enriched
+YLR403W	YDR216W	?
+YDR253C	YDR223W	bound
+YNL103W	YDR223W	?
+YDR207C	YDR226W	binding enriched
+YJL127C	YDR226W	+
+YJR140C	YDR226W	+
+YKL185W	YDR226W	binding enriched
+YLR403W	YDR226W	+
+YNL216W	YDR226W	+
+YOL148C	YDR226W	+
+YDR253C	YDR253C	bound
+YDR259C	YDR253C	binding enriched
+YJL056C	YDR253C	?
+YKL032C	YDR253C	-
+YNL103W	YDR253C	?
+YDR253C	YDR259C	bound
+YIL101C	YDR259C	binding enriched
+YIR018W	YDR259C	binding enriched
+YJL127C	YDR259C	?
+YMR164C	YDR259C	?
+YNL103W	YDR259C	?
+YNL216W	YDR259C	binding enriched
+YBR049C	YDR264C	binding enriched
+YDR259C	YDR264C	binding enriched
+YDR392W	YDR264C	binding enriched
+YGR252W	YDR264C	binding enriched
+YIL101C	YDR264C	binding enriched
+YIR018W	YDR264C	?
+YLR403W	YDR264C	?
+YIL101C	YDR270W	binding enriched
+YIL131C	YDR270W	binding enriched
+YOR174W	YDR270W	binding enriched
+YDL106C	YDR310C	binding enriched
+YLR176C	YDR362C	binding enriched
+YLR403W	YDR362C	-
+YBR049C	YDR375C	binding enriched
+YER159C	YDR375C	binding enriched
+YGR252W	YDR375C	binding enriched
+YIL101C	YDR392W	binding enriched
+YIL131C	YDR392W	binding enriched
+YNL216W	YDR392W	binding enriched
+YGL073W	YDR397C	+
+YHR058C	YDR397C	binding enriched
+YIL131C	YDR397C	binding enriched
+YJL127C	YDR421W	?
+YLR403W	YDR423C	?
+YER111C	YDR443C	binding enriched
+YIL101C	YDR443C	binding enriched
+YDR259C	YDR448W	binding enriched
+YGL013C	YDR448W	-
+YHR124W	YDR448W	-
+YLR071C	YDR448W	binding enriched
+YOR110W	YDR448W	binding enriched
+YPR133C	YDR448W	binding enriched
+YBR049C	YDR451C	binding enriched
+YDR207C	YDR451C	binding enriched
+YDR463W	YDR451C	binding enriched
+YER111C	YDR451C	binding enriched
+YIR018W	YDR451C	binding enriched
+YJR127C	YDR451C	binding enriched
+YKL032C	YDR451C	+
+YLR176C	YDR451C	binding enriched
+YLR403W	YDR451C	?
+YML007W	YDR451C	binding enriched
+YMR037C	YDR451C	binding enriched
+YNL229C	YDR451C	binding enriched
+YPL254W	YDR451C	binding enriched
+YDR253C	YDR463W	bound
+YDR463W	YDR463W	binding enriched
+YLR451W	YDR463W	binding enriched
+YNL103W	YDR463W	?
+YEL009C	YEL009C	?
+YLR223C	YEL009C	bound
+YDL005C	YER017C	binding enriched
+YIL101C	YER017C	binding enriched
+YLR451W	YER017C	binding enriched
+YOL145C	YER017C	binding enriched
+YOR174W	YER017C	binding enriched
+YPR104C	YER017C	binding enriched
+YGR116W	YER022W	binding enriched
+YLR403W	YER022W	?
+YBR049C	YER028C	binding enriched
+YGR252W	YER028C	binding enriched
+YKL032C	YER028C	-
+YNL216W	YER028C	binding enriched
+YOL004W	YER028C	-
+YOR174W	YER028C	binding enriched
+YCR084C	YER036C	+
+YDR207C	YER036C	binding enriched
+YGL073W	YER036C	+
+YGR252W	YER036C	binding enriched
+YIL036W	YER036C	+
+YJL127C	YER036C	+
+YLR403W	YER036C	+
+YLR403W	YER036C	?
+YNL216W	YER036C	+
+YNL236W	YER036C	+
+YOL148C	YER036C	+
+YPL075W	YER036C	+
+YPL254W	YER036C	+
+YDL005C	YER040W	binding enriched
+YDR259C	YER040W	binding enriched
+YIL101C	YER040W	binding enriched
+YIL131C	YER040W	binding enriched
+YLR403W	YER040W	?
+YLR451W	YER040W	binding enriched
+YOR110W	YER040W	binding enriched
+YLR403W	YER045C	?
+YNL216W	YER045C	binding enriched
+YBR049C	YER088C	binding enriched
+YDL005C	YER088C	binding enriched
+YDR253C	YER088C	bound
+YDR392W	YER088C	binding enriched
+YGR252W	YER088C	binding enriched
+YIL131C	YER088C	binding enriched
+YNL216W	YER088C	binding enriched
+YOR174W	YER088C	binding enriched
+YDL005C	YER109C	binding enriched
+YDR259C	YER109C	binding enriched
+YJL127C	YER109C	?
+YLR451W	YER109C	binding enriched
+YML007W	YER109C	binding enriched
+YIR018W	YER111C	?
+YLR176C	YER111C	binding enriched
+YLR403W	YER148W	?
+YPL075W	YER148W	+
+YLR403W	YER159C	?
+YDR423C	YER161C	-
+YBR049C	YER169W	binding enriched
+YLR403W	YER169W	?
+YDL005C	YFL021W	binding enriched
+YDR253C	YFL021W	bound
+YDR448W	YFL021W	binding enriched
+YER040W	YFL021W	binding enriched
+YIL101C	YFL021W	binding enriched
+YJL110C	YFL021W	-
+YML007W	YFL021W	binding enriched
+YNL103W	YFL021W	?
+YOR174W	YFL021W	binding enriched
+YPL254W	YFL021W	binding enriched
+YDL005C	YFL030W	binding enriched
+YGR116W	YFL030W	binding enriched
+YGR252W	YFL030W	binding enriched
+YJL127C	YFL030W	?
+YPR086W	YFL030W	binding enriched
+YDL005C	YFL031W	binding enriched
+YGL073W	YFL031W	+
+YIL036W	YFL031W	+
+YIR018W	YFL031W	?
+YJL127C	YFL031W	+
+YLR403W	YFL031W	+
+YLR403W	YFL031W	?
+YMR037C	YFL031W	binding enriched
+YNL216W	YFL031W	+
+YNL236W	YFL031W	+
+YOL004W	YFL031W	+
+YOL004W	YFL031W	+
+YPL075W	YFL031W	+
+YPL075W	YFL031W	+
+YDL005C	YFR034C	binding enriched
+YDR253C	YFR034C	bound
+YDR259C	YFR034C	binding enriched
+YIL101C	YFR034C	binding enriched
+YIL131C	YFR034C	binding enriched
+YIR018W	YFR034C	binding enriched
+YLR403W	YFR034C	+
+YNL103W	YFR034C	?
+YNL216W	YFR034C	binding enriched
+YBR049C	YGL001C	+
+YLR176C	YGL001C	binding enriched
+YLR403W	YGL001C	?
+YNL216W	YGL001C	+
+YPL075W	YGL001C	+
+YDL005C	YGL013C	binding enriched
+YDR259C	YGL013C	binding enriched
+YGR252W	YGL013C	binding enriched
+YKL032C	YGL013C	-
+YLR403W	YGL013C	?
+YOR110W	YGL013C	binding enriched
+YIL101C	YGL025C	binding enriched
+YKL032C	YGL025C	-
+YLR451W	YGL025C	binding enriched
+YOR110W	YGL025C	binding enriched
+YDR207C	YGL035C	binding enriched
+YIL131C	YGL035C	binding enriched
+YIR018W	YGL035C	?
+YKL032C	YGL035C	-
+YNL068C	YGL035C	binding enriched
+YPL254W	YGL035C	binding enriched
+YDL005C	YGL047W	binding enriched
+YDR259C	YGL047W	binding enriched
+YIL101C	YGL047W	binding enriched
+YCR084C	YGL066W	binding enriched
+YKL032C	YGL066W	-
+YGR252W	YGL071W	binding enriched
+YLR403W	YGL071W	?
+YDR463W	YGL073W	binding enriched
+YIL101C	YGL073W	binding enriched
+YIL131C	YGL073W	binding enriched
+YLR403W	YGL073W	?
+YOR110W	YGL073W	binding enriched
+YPR086W	YGL073W	binding enriched
+YIL101C	YGL127C	binding enriched
+YLR403W	YGL127C	?
+YOR174W	YGL127C	binding enriched
+YBR049C	YGL151W	binding enriched
+YDL170W	YGL151W	binding enriched
+YBR049C	YGL166W	binding enriched
+YDL005C	YGL166W	binding enriched
+YDR259C	YGL166W	binding enriched
+YER159C	YGL166W	binding enriched
+YGR252W	YGL166W	binding enriched
+YIL131C	YGL166W	binding enriched
+YLR071C	YGL166W	binding enriched
+YLR403W	YGL166W	?
+YOR028C	YGL166W	binding enriched
+YOR174W	YGL166W	binding enriched
+YOR162C	YGL181W	+
+YDR259C	YGL209W	binding enriched
+YEL009C	YGL209W	?
+YLR403W	YGL209W	-
+YDR423C	YGL244W	-
+YOR110W	YGL244W	binding enriched
+YOR162C	YGL244W	+
+YDR423C	YGL254W	-
+YKL032C	YGL254W	+
+YKL032C	YGL254W	-
+YLR071C	YGL254W	binding enriched
+YOR110W	YGL254W	binding enriched
+YDR207C	YGR044C	binding enriched
+YER159C	YGR044C	binding enriched
+YKL032C	YGR044C	-
+YLR403W	YGR044C	-
+YNL068C	YGR044C	binding enriched
+YPL254W	YGR044C	+
+YBR112C	YGR047C	binding enriched
+YGR252W	YGR047C	binding enriched
+YOR110W	YGR047C	binding enriched
+YPL254W	YGR047C	binding enriched
+YBR049C	YGR060W	+
+YDR253C	YGR060W	bound
+YDR392W	YGR060W	binding enriched
+YLR403W	YGR060W	?
+YNL068C	YGR060W	binding enriched
+YPL075W	YGR060W	+
+YPR104C	YGR060W	binding enriched
+YGR252W	YGR104C	binding enriched
+YOR110W	YGR104C	binding enriched
+YDR463W	YGR116W	binding enriched
+YER159C	YGR116W	binding enriched
+YPR086W	YGR116W	binding enriched
+YDL005C	YGR175C	binding enriched
+YDR392W	YGR175C	+
+YDR448W	YGR175C	binding enriched
+YDR463W	YGR175C	binding enriched
+YIL101C	YGR175C	binding enriched
+YIL131C	YGR175C	binding enriched
+YLR403W	YGR175C	?
+YNL236W	YGR175C	+
+YOL148C	YGR175C	+
+YOR110W	YGR175C	binding enriched
+YPR065W	YGR175C	-
+YDR463W	YGR246C	binding enriched
+YLR176C	YGR249W	binding enriched
+YML007W	YGR252W	binding enriched
+YDL170W	YHL009C	binding enriched
+YOL108C	YHL009C	binding enriched
+YER040W	YHL020C	binding enriched
+YKL032C	YHL020C	-
+YOR110W	YHL020C	binding enriched
+YOR174W	YHL020C	binding enriched
+YDL005C	YHL027W	binding enriched
+YGR252W	YHL027W	binding enriched
+YKL032C	YHL027W	-
+YLR071C	YHL027W	binding enriched
+YPR104C	YHL027W	binding enriched
+YBR049C	YHR006W	binding enriched
+YDR259C	YHR006W	binding enriched
+YIL131C	YHR006W	binding enriched
+YKL032C	YHR006W	-
+YNL330C	YHR006W	binding enriched
+YDR253C	YHR007C	bound
+YKL032C	YHR007C	-
+YLR403W	YHR007C	?
+YNL103W	YHR007C	?
+YNL216W	YHR007C	binding enriched
+YOR110W	YHR007C	binding enriched
+YDR463W	YHR013C	binding enriched
+YIR018W	YHR013C	binding enriched
+YOR110W	YHR013C	binding enriched
+YDL005C	YHR041C	binding enriched
+YIL101C	YHR041C	binding enriched
+YIL131C	YHR041C	binding enriched
+YML007W	YHR041C	binding enriched
+YOR174W	YHR041C	binding enriched
+YDL170W	YHR072W	binding enriched
+YLR176C	YHR072W	binding enriched
+YLR403W	YHR072W	?
+YDR259C	YHR084W	binding enriched
+YKL015W	YHR084W	binding enriched
+YJR127C	YHR124W	binding enriched
+YDL005C	YHR178W	binding enriched
+YDR123C	YHR178W	binding enriched
+YIL131C	YHR178W	binding enriched
+YJL127C	YHR178W	?
+YLR403W	YHR178W	?
+YNL216W	YHR178W	binding enriched
+YKL032C	YHR206W	+
+YOR174W	YHR206W	binding enriched
+YDL170W	YIL036W	binding enriched
+YGR252W	YIL036W	binding enriched
+YML007W	YIL036W	binding enriched
+YPR086W	YIL036W	binding enriched
+YDR253C	YIL056W	bound
+YJL127C	YIL056W	?
+YMR037C	YIL056W	binding enriched
+YNL103W	YIL056W	?
+YOR174W	YIL056W	binding enriched
+YDL005C	YIL101C	binding enriched
+YDR146C	YIL101C	binding enriched
+YDR207C	YIL101C	binding enriched
+YDR207C	YIL101C	-
+YDR463W	YIL101C	binding enriched
+YGR104C	YIL101C	binding enriched
+YGR252W	YIL101C	binding enriched
+YHR206W	YIL101C	binding enriched
+YIL101C	YIL101C	binding enriched
+YIL131C	YIL101C	binding enriched
+YLR403W	YIL101C	+
+YLR403W	YIL101C	?
+YMR037C	YIL101C	binding enriched
+YPR086W	YIL101C	binding enriched
+YDR463W	YIL154C	binding enriched
+YBR083W	YIR013C	+
+YCR084C	YIR013C	-
+YEL009C	YIR013C	?
+YFR034C	YIR013C	-
+YHR084W	YIR013C	+
+YNL330C	YIR013C	binding enriched
+YOR230W	YIR013C	binding enriched
+YBR049C	YIR018W	binding enriched
+YDL170W	YIR018W	binding enriched
+YDR207C	YIR018W	binding enriched
+YDR253C	YIR018W	bound
+YDR392W	YIR018W	binding enriched
+YDR397C	YIR018W	binding enriched
+YER169W	YIR018W	binding enriched
+YHR206W	YIR018W	binding enriched
+YNL068C	YIR018W	binding enriched
+YNL103W	YIR018W	?
+YKL032C	YIR023W	-
+YIL131C	YJL025W	binding enriched
+YJL127C	YJL025W	?
+YLR403W	YJL025W	?
+YOR110W	YJL025W	binding enriched
+YDL005C	YJL056C	binding enriched
+YIL101C	YJL056C	binding enriched
+YJL056C	YJL056C	+
+YKL032C	YJL056C	-
+YPR086W	YJL056C	binding enriched
+YGL073W	YJL089W	+
+YGR104C	YJL089W	binding enriched
+YIL101C	YJL089W	binding enriched
+YJL127C	YJL089W	?
+YMR037C	YJL089W	binding enriched
+YOR174W	YJL089W	binding enriched
+YDR123C	YJL103C	binding enriched
+YDR207C	YJL103C	binding enriched
+YPR086W	YJL103C	binding enriched
+YLR176C	YJL110C	binding enriched
+YLR403W	YJL110C	+
+YLR403W	YJL110C	?
+YDL005C	YJL127C	binding enriched
+YJL127C	YJL127C	?
+YOR110W	YJL180C	binding enriched
+YKR099W	YJR060W	-
+YPR104C	YJR060W	binding enriched
+YBR049C	YJR127C	binding enriched
+YBR081C	YJR127C	binding enriched
+YDL005C	YJR127C	binding enriched
+YDR207C	YJR127C	binding enriched
+YDR253C	YJR127C	bound
+YDR392W	YJR127C	binding enriched
+YDR397C	YJR127C	binding enriched
+YER159C	YJR127C	binding enriched
+YGR252W	YJR127C	binding enriched
+YIL101C	YJR127C	binding enriched
+YKL032C	YJR127C	-
+YLR071C	YJR127C	binding enriched
+YML007W	YJR127C	binding enriched
+YNL229C	YJR127C	binding enriched
+YPR104C	YJR127C	binding enriched
+YDR259C	YJR140C	binding enriched
+YDR463W	YJR140C	binding enriched
+YHR058C	YJR140C	binding enriched
+YIL101C	YJR140C	binding enriched
+YDR207C	YKL015W	binding enriched
+YDR207C	YKL015W	-
+YDR392W	YKL015W	binding enriched
+YHR058C	YKL015W	binding enriched
+YNL330C	YKL015W	binding enriched
+YOR110W	YKL015W	binding enriched
+YIR018W	YKL038W	binding enriched
+YJL127C	YKL038W	?
+YKL032C	YKL038W	-
+YNL216W	YKL038W	-
+YCR084C	YKL043W	-
+YDR392W	YKL043W	+
+YGL071W	YKL043W	+
+YGL073W	YKL043W	+
+YHL020C	YKL043W	+
+YHL027W	YKL043W	+
+YIL101C	YKL043W	binding enriched
+YKR099W	YKL043W	+
+YLR071C	YKL043W	binding enriched
+YMR016C	YKL043W	-
+YNL236W	YKL043W	+
+YOL148C	YKL043W	+
+YOR110W	YKL043W	binding enriched
+YPL254W	YKL043W	+
+YIL101C	YKL058W	binding enriched
+YLR403W	YKL058W	?
+YNL216W	YKL058W	+
+YPL075W	YKL058W	+
+YCR084C	YKL062W	-
+YDR253C	YKL062W	bound
+YLR403W	YKL062W	-
+YNL103W	YKL062W	?
+YNL216W	YKL062W	-
+YDR253C	YKL109W	bound
+YLR176C	YKL109W	binding enriched
+YNL103W	YKL109W	?
+YIL101C	YKL112W	binding enriched
+YOR174W	YKL112W	binding enriched
+YDR253C	YKL125W	bound
+YLR403W	YKL125W	+
+YLR403W	YKL125W	?
+YNL103W	YKL125W	?
+YGR252W	YKL185W	binding enriched
+YLR403W	YKL185W	-
+YDR259C	YKR034W	binding enriched
+YDR310C	YKR034W	-
+YEL009C	YKR034W	?
+YIL131C	YKR034W	binding enriched
+YIR018W	YKR034W	binding enriched
+YJL127C	YKR034W	?
+YLR176C	YKR034W	binding enriched
+YDL170W	YLL054C	binding enriched
+YLR176C	YLL054C	binding enriched
+YDR259C	YLR014C	binding enriched
+YLR403W	YLR014C	?
+YBR112C	YLR055C	binding enriched
+YJL127C	YLR055C	+
+YLR176C	YLR055C	binding enriched
+YDL005C	YLR056W	binding enriched
+YGR252W	YLR056W	binding enriched
+YIL101C	YLR056W	binding enriched
+YLR403W	YLR056W	?
+YOR174W	YLR056W	binding enriched
+YPL075W	YLR056W	+
+YPR104C	YLR056W	binding enriched
+YIL101C	YLR071C	binding enriched
+YDL005C	YLR098C	binding enriched
+YIL131C	YLR098C	binding enriched
+YBR081C	YLR100W	binding enriched
+YCR084C	YLR100W	+
+YDL005C	YLR100W	binding enriched
+YHR058C	YLR100W	binding enriched
+YIL131C	YLR100W	binding enriched
+YLR403W	YLR100W	?
+YOR174W	YLR100W	binding enriched
+YDR207C	YLR131C	binding enriched
+YER159C	YLR131C	binding enriched
+YGR252W	YLR131C	binding enriched
+YLR403W	YLR131C	?
+YPL254W	YLR131C	binding enriched
+YDL170W	YLR141W	binding enriched
+YDR253C	YLR141W	bound
+YIL101C	YLR141W	binding enriched
+YKL185W	YLR141W	binding enriched
+YNL103W	YLR141W	?
+YNL216W	YLR141W	binding enriched
+YDL005C	YLR176C	binding enriched
+YMR037C	YLR176C	binding enriched
+YPR133C	YLR176C	binding enriched
+YDR463W	YLR223C	binding enriched
+YLR403W	YLR223C	+
+YLR403W	YLR223C	?
+YBR112C	YLR228C	binding enriched
+YDL170W	YLR228C	binding enriched
+YER159C	YLR228C	binding enriched
+YKL032C	YLR228C	-
+YDL005C	YLR242C	binding enriched
+YIL101C	YLR242C	binding enriched
+YIL131C	YLR242C	binding enriched
+YJL127C	YLR242C	?
+YML007W	YLR242C	binding enriched
+YBR083W	YLR256W	+
+YDR259C	YLR256W	binding enriched
+YIL101C	YLR256W	binding enriched
+YLR403W	YLR256W	+
+YLR451W	YLR256W	+
+YPL254W	YLR256W	+
+YBR081C	YLR266C	binding enriched
+YDL005C	YLR266C	binding enriched
+YDR253C	YLR266C	bound
+YER159C	YLR266C	binding enriched
+YGR116W	YLR266C	binding enriched
+YGR252W	YLR266C	binding enriched
+YIL101C	YLR266C	binding enriched
+YLR071C	YLR266C	binding enriched
+YLR403W	YLR266C	-
+YML007W	YLR266C	binding enriched
+YNL103W	YLR266C	?
+YOR028C	YLR266C	binding enriched
+YOR230W	YLR266C	binding enriched
+YPR086W	YLR266C	binding enriched
+YBL103C	YLR304C	+
+YBR049C	YLR304C	binding enriched
+YDL020C	YLR304C	+
+YDR392W	YLR304C	+
+YDR463W	YLR304C	binding enriched
+YER159C	YLR304C	binding enriched
+YGL071W	YLR304C	+
+YGL073W	YLR304C	+
+YGL181W	YLR304C	+
+YGR116W	YLR304C	binding enriched
+YHL027W	YLR304C	-
+YIL036W	YLR304C	+
+YLR071C	YLR304C	binding enriched
+YLR403W	YLR304C	?
+YOL148C	YLR304C	+
+YOR230W	YLR304C	binding enriched
+YPL075W	YLR304C	+
+YPR086W	YLR304C	binding enriched
+YCR084C	YLR359W	+
+YDL106C	YLR359W	+
+YEL009C	YLR359W	?
+YGL073W	YLR359W	+
+YIL036W	YLR359W	+
+YJL127C	YLR359W	+
+YJL127C	YLR359W	?
+YKR099W	YLR359W	+
+YNL216W	YLR359W	+
+YPL075W	YLR359W	+
+YBR049C	YLR403W	binding enriched
+YBR083W	YLR403W	+
+YCR084C	YLR403W	binding enriched
+YHR084W	YLR403W	+
+YLR403W	YLR403W	+
+YLR403W	YLR403W	?
+YDR259C	YLR418C	binding enriched
+YLR403W	YLR418C	?
+YOR110W	YLR451W	binding enriched
+YDL005C	YML007W	binding enriched
+YDR253C	YML007W	bound
+YDR392W	YML007W	binding enriched
+YGL073W	YML007W	+
+YGR252W	YML007W	binding enriched
+YIL101C	YML007W	binding enriched
+YKL112W	YML007W	-
+YLR176C	YML007W	binding enriched
+YLR403W	YML007W	?
+YNL236W	YML007W	+
+YPL075W	YML007W	-
+YDL005C	YML027W	binding enriched
+YDL170W	YML027W	binding enriched
+YEL009C	YML027W	?
+YGR104C	YML027W	binding enriched
+YIL131C	YML027W	binding enriched
+YIR018W	YML027W	binding enriched
+YLR176C	YML027W	binding enriched
+YML007W	YML027W	binding enriched
+YML007W	YML027W	+
+YOR110W	YML027W	binding enriched
+YOR174W	YML027W	binding enriched
+YBR049C	YML043C	binding enriched
+YCR084C	YML043C	-
+YDR207C	YML043C	binding enriched
+YIL036W	YML043C	-
+YJL127C	YML043C	?
+YLR403W	YML043C	-
+YLR403W	YML043C	?
+YCR084C	YML075C	+
+YIL036W	YML075C	+
+YLR403W	YML075C	+
+YLR403W	YML075C	?
+YNL236W	YML075C	+
+YIR018W	YML076C	binding enriched
+YOR110W	YML076C	binding enriched
+YDL005C	YML099C	binding enriched
+YIL131C	YML099C	binding enriched
+YKL032C	YML099C	-
+YLR071C	YML099C	binding enriched
+YML007W	YML099C	binding enriched
+YNL216W	YML099C	-
+YOR174W	YML099C	binding enriched
+YDL170W	YMR009W	binding enriched
+YDR253C	YMR009W	bound
+YDR259C	YMR009W	binding enriched
+YDR463W	YMR009W	binding enriched
+YGR116W	YMR009W	binding enriched
+YKL032C	YMR009W	+
+YLR182W	YMR009W	-
+YLR403W	YMR009W	?
+YNL027W	YMR009W	+
+YNL103W	YMR009W	?
+YOR174W	YMR009W	binding enriched
+YDL170W	YMR016C	binding enriched
+YDR253C	YMR016C	bound
+YNL216W	YMR016C	binding enriched
+YDR259C	YMR021C	binding enriched
+YIL101C	YMR021C	binding enriched
+YLR176C	YMR021C	binding enriched
+YPR086W	YMR021C	binding enriched
+YDR253C	YMR037C	bound
+YNL103W	YMR037C	?
+YLR403W	YMR039C	-
+YBR081C	YMR042W	binding enriched
+YDR213W	YMR042W	+
+YIL101C	YMR042W	binding enriched
+YKL032C	YMR042W	-
+YER040W	YMR043W	+
+YKL032C	YMR043W	-
+YDR207C	YMR070W	binding enriched
+YDR253C	YMR070W	bound
+YDR463W	YMR070W	binding enriched
+YER159C	YMR070W	binding enriched
+YJL127C	YMR070W	?
+YKL032C	YMR070W	-
+YLR403W	YMR070W	+
+YLR403W	YMR070W	?
+YNL103W	YMR070W	?
+YNL330C	YMR070W	binding enriched
+YJR127C	YMR072W	binding enriched
+YKL032C	YMR072W	+
+YPR104C	YMR072W	binding enriched
+YDR259C	YMR089C	binding enriched
+YGR252W	YMR089C	binding enriched
+YLR403W	YMR089C	?
+YER159C	YMR112C	binding enriched
+YDL170W	YMR164C	binding enriched
+YDR259C	YMR164C	binding enriched
+YIL101C	YMR164C	binding enriched
+YMR164C	YMR164C	?
+YIL101C	YMR182C	binding enriched
+YIL131C	YMR182C	binding enriched
+YBR049C	YMR202W	+
+YDL005C	YMR202W	binding enriched
+YIL101C	YMR202W	binding enriched
+YIL131C	YMR202W	binding enriched
+YLR403W	YMR202W	?
+YML007W	YMR202W	binding enriched
+YNL216W	YMR202W	+
+YPL075W	YMR202W	+
+YBR049C	YMR208W	binding enriched
+YDL005C	YMR208W	binding enriched
+YDR259C	YMR208W	binding enriched
+YGR252W	YMR208W	binding enriched
+YLR403W	YMR208W	?
+YER040W	YMR246W	binding enriched
+YCR084C	YMR270C	-
+YIL036W	YMR270C	-
+YDR207C	YMR280C	binding enriched
+YDR259C	YMR280C	binding enriched
+YDR397C	YMR280C	binding enriched
+YDR463W	YMR280C	binding enriched
+YER159C	YMR280C	binding enriched
+YIL101C	YMR280C	binding enriched
+YNL330C	YMR280C	binding enriched
+YDR423C	YMR301C	-
+YDR463W	YNL025C	binding enriched
+YIL101C	YNL025C	binding enriched
+YIL131C	YNL025C	binding enriched
+YBL008W	YNL036W	-
+YCR084C	YNL036W	-
+YDL005C	YNL036W	binding enriched
+YDR043C	YNL036W	-
+YDR253C	YNL036W	bound
+YDR463W	YNL036W	-
+YER111C	YNL036W	-
+YER161C	YNL036W	-
+YGL073W	YNL036W	-
+YGR252W	YNL036W	binding enriched
+YJL127C	YNL036W	-
+YJR060W	YNL036W	-
+YKR099W	YNL036W	-
+YLR403W	YNL036W	-
+YML007W	YNL036W	-
+YNL103W	YNL036W	?
+YNL216W	YNL036W	-
+YOL004W	YNL036W	-
+YOL148C	YNL036W	-
+YPL075W	YNL036W	-
+YPL254W	YNL036W	-
+YPR086W	YNL036W	binding enriched
+YPR104C	YNL036W	binding enriched
+YDR423C	YNL039W	-
+YNL216W	YNL068C	binding enriched
+YPL254W	YNL068C	binding enriched
+YDL005C	YNL103W	binding enriched
+YDR253C	YNL103W	bound
+YDR423C	YNL103W	-
+YDR463W	YNL103W	binding enriched
+YML007W	YNL103W	binding enriched
+YNL103W	YNL103W	?
+YOR110W	YNL103W	binding enriched
+YDR259C	YNL167C	binding enriched
+YIL101C	YNL167C	binding enriched
+YDL005C	YNL199C	binding enriched
+YGR252W	YNL199C	binding enriched
+YLR176C	YNL199C	binding enriched
+YOR110W	YNL199C	binding enriched
+YBR049C	YNL216W	binding enriched
+YER040W	YNL216W	binding enriched
+YOR174W	YNL216W	binding enriched
+YOR110W	YNL219C	binding enriched
+YOR229W	YNL219C	binding enriched
+YPL254W	YNL219C	binding enriched
+YBR049C	YNL229C	binding enriched
+YDR423C	YNL229C	-
+YLR176C	YNL229C	binding enriched
+YOR110W	YNL229C	binding enriched
+YDL170W	YNL236W	binding enriched
+YDR253C	YNL257C	bound
+YDR259C	YNL257C	binding enriched
+YHL020C	YNL257C	-
+YNL103W	YNL257C	?
+YDR259C	YNL259C	binding enriched
+YGR252W	YNL259C	binding enriched
+YIL101C	YNL259C	binding enriched
+YJR060W	YNL259C	+
+YLR403W	YNL309W	?
+YOR174W	YNL309W	binding enriched
+YDR463W	YNL314W	binding enriched
+YML007W	YNL314W	binding enriched
+YDR259C	YNL330C	binding enriched
+YGR252W	YNL330C	binding enriched
+YMR037C	YNL330C	binding enriched
+YDL005C	YNR009W	binding enriched
+YDR207C	YNR009W	binding enriched
+YDR423C	YNR009W	+
+YML007W	YNR009W	+
+YNL330C	YNR009W	binding enriched
+YDR123C	YNR010W	binding enriched
+YKL185W	YNR010W	binding enriched
+YPR086W	YNR010W	binding enriched
+YDR463W	YNR030W	binding enriched
+YGR252W	YNR030W	binding enriched
+YHR058C	YNR030W	binding enriched
+YIL131C	YNR030W	binding enriched
+YDR392W	YOL004W	binding enriched
+YLR071C	YOL004W	binding enriched
+YML007W	YOL004W	binding enriched
+YDR259C	YOL051W	binding enriched
+YKL032C	YOL051W	-
+YOL108C	YOL051W	binding enriched
+YOR110W	YOL051W	binding enriched
+YDL005C	YOL067C	binding enriched
+YGR252W	YOL067C	binding enriched
+YIL131C	YOL067C	binding enriched
+YOR174W	YOL067C	binding enriched
+YOR110W	YOL108C	binding enriched
+YDR259C	YOL116W	binding enriched
+YOR174W	YOL116W	binding enriched
+YBR049C	YOL130W	binding enriched
+YCR084C	YOL130W	binding enriched
+YDR259C	YOL130W	binding enriched
+YGR252W	YOL130W	binding enriched
+YIR018W	YOL130W	binding enriched
+YKL032C	YOL130W	-
+YPR104C	YOL130W	binding enriched
+YDR259C	YOL135C	binding enriched
+YIL101C	YOL135C	binding enriched
+YPR086W	YOL135C	binding enriched
+YBR049C	YOL148C	binding enriched
+YDR259C	YOL148C	binding enriched
+YGR252W	YOL148C	binding enriched
+YDL005C	YOR002W	binding enriched
+YKL032C	YOR002W	-
+YPR104C	YOR002W	binding enriched
+YDR259C	YOR028C	binding enriched
+YJL127C	YOR028C	?
+YLR098C	YOR028C	binding enriched
+YLR403W	YOR028C	-
+YLR403W	YOR028C	?
+YNL330C	YOR028C	binding enriched
+YBR083W	YOR032C	-
+YDR253C	YOR032C	bound
+YER040W	YOR032C	binding enriched
+YKL032C	YOR032C	-
+YMR070W	YOR032C	-
+YMR164C	YOR032C	?
+YNL103W	YOR032C	?
+YNL216W	YOR032C	binding enriched
+YNL216W	YOR032C	-
+YOR174W	YOR032C	binding enriched
+YDR259C	YOR038C	binding enriched
+YDR423C	YOR038C	+
+YDL005C	YOR067C	binding enriched
+YLR403W	YOR067C	-
+YML007W	YOR067C	+
+YLR403W	YOR083W	?
+YGR104C	YOR110W	binding enriched
+YJL127C	YOR110W	?
+YLR403W	YOR110W	-
+YML007W	YOR110W	binding enriched
+YDL005C	YOR113W	binding enriched
+YDR463W	YOR113W	binding enriched
+YPR086W	YOR113W	binding enriched
+YDR423C	YOR123C	-
+YIR018W	YOR123C	binding enriched
+YJL127C	YOR123C	?
+YDR253C	YOR140W	bound
+YDR463W	YOR140W	binding enriched
+YJR127C	YOR140W	binding enriched
+YLR071C	YOR140W	binding enriched
+YNL103W	YOR140W	?
+YDR253C	YOR162C	bound
+YDR392W	YOR162C	binding enriched
+YGR252W	YOR162C	binding enriched
+YLR403W	YOR162C	-
+YNL103W	YOR162C	?
+YBR049C	YOR172W	binding enriched
+YDR448W	YOR172W	binding enriched
+YLR071C	YOR172W	binding enriched
+YDL170W	YOR174W	binding enriched
+YML007W	YOR174W	binding enriched
+YPR133C	YOR174W	binding enriched
+YBR049C	YOR194C	-
+YDR423C	YOR194C	-
+YER159C	YOR194C	binding enriched
+YGR252W	YOR194C	binding enriched
+YKL112W	YOR194C	-
+YLR403W	YOR194C	?
+YML007W	YOR194C	binding enriched
+YNL216W	YOR194C	-
+YOR110W	YOR194C	binding enriched
+YDR392W	YOR229W	binding enriched
+YKL032C	YOR229W	-
+YLR071C	YOR229W	binding enriched
+YLR418C	YOR229W	+
+YOR110W	YOR229W	binding enriched
+YPR086W	YOR229W	binding enriched
+YBR112C	YOR230W	binding enriched
+YBR279W	YOR230W	binding enriched
+YDR253C	YOR230W	bound
+YGL071W	YOR230W	+
+YKL112W	YOR230W	+
+YNL103W	YOR230W	?
+YNL216W	YOR230W	+
+YOL089C	YOR230W	+
+YOL148C	YOR230W	+
+YOR174W	YOR230W	binding enriched
+YPL075W	YOR230W	+
+YPL254W	YOR230W	+
+YKL032C	YOR295W	+
+YOR110W	YOR295W	binding enriched
+YDL005C	YOR298C-A	binding enriched
+YDR123C	YOR298C-A	+
+YDR310C	YOR298C-A	+
+YDR392W	YOR298C-A	binding enriched
+YER159C	YOR298C-A	binding enriched
+YGL035C	YOR298C-A	+
+YGL071W	YOR298C-A	+
+YGL071W	YOR298C-A	+
+YGR044C	YOR298C-A	+
+YGR116W	YOR298C-A	binding enriched
+YGR252W	YOR298C-A	binding enriched
+YHR058C	YOR298C-A	binding enriched
+YIL131C	YOR298C-A	binding enriched
+YJL127C	YOR298C-A	+
+YLR176C	YOR298C-A	binding enriched
+YLR403W	YOR298C-A	+
+YLR403W	YOR298C-A	?
+YML007W	YOR298C-A	binding enriched
+YMR164C	YOR298C-A	+
+YNL068C	YOR298C-A	binding enriched
+YNL216W	YOR298C-A	+
+YOR174W	YOR298C-A	binding enriched
+YPL075W	YOR298C-A	+
+YPR086W	YOR298C-A	binding enriched
+YDR207C	YOR317W	binding enriched
+YER159C	YOR317W	binding enriched
+YGL071W	YOR317W	+
+YGR252W	YOR317W	binding enriched
+YHL027W	YOR317W	+
+YJR140C	YOR317W	+
+YPL075W	YOR317W	-
+YPR086W	YOR317W	binding enriched
+YPR104C	YOR317W	binding enriched
+YCR084C	YOR335C	binding enriched
+YGL073W	YOR335C	+
+YGR252W	YOR335C	binding enriched
+YIL036W	YOR335C	+
+YIR018W	YOR335C	binding enriched
+YNL216W	YOR335C	+
+YJL127C	YOR337W	?
+YJR127C	YOR337W	binding enriched
+YNL216W	YOR337W	binding enriched
+YDR253C	YOR344C	bound
+YGL073W	YOR344C	+
+YJL127C	YOR344C	?
+YLR223C	YOR344C	bound
+YNL103W	YOR344C	?
+YNL199C	YOR344C	-
+YNL216W	YOR344C	binding enriched
+YPL075W	YOR344C	-
+YIL101C	YOR363C	binding enriched
+YDR259C	YOR372C	binding enriched
+YDR423C	YOR372C	+
+YGR246C	YOR372C	binding enriched
+YKL032C	YOR372C	-
+YPL254W	YOR372C	binding enriched
+YPR104C	YOR372C	binding enriched
+YBL103C	YOR374W	-
+YCR084C	YOR374W	-
+YDR207C	YOR374W	binding enriched
+YDR392W	YOR374W	binding enriched
+YER159C	YOR374W	binding enriched
+YIL036W	YOR374W	-
+YJL127C	YOR374W	-
+YKL032C	YOR374W	-
+YLR223C	YOR374W	bound
+YMR037C	YOR374W	binding enriched
+YNL216W	YOR374W	-
+YNL236W	YOR374W	+
+YOL004W	YOR374W	-
+YPL075W	YOR374W	-
+YPR086W	YOR374W	binding enriched
+YIL101C	YOR380W	binding enriched
+YJL127C	YOR380W	?
+YLR403W	YOR380W	?
+YDR463W	YPL007C	binding enriched
+YBR049C	YPL028W	+
+YDL005C	YPL028W	binding enriched
+YGR252W	YPL028W	binding enriched
+YIL131C	YPL028W	binding enriched
+YLR403W	YPL028W	?
+YML007W	YPL028W	binding enriched
+YNL216W	YPL028W	+
+YOR110W	YPL028W	binding enriched
+YOR174W	YPL028W	binding enriched
+YPL075W	YPL028W	+
+YDR253C	YPL038W	bound
+YDR259C	YPL038W	binding enriched
+YNL103W	YPL038W	?
+YLR403W	YPL042C	?
+YBR049C	YPL047W	binding enriched
+YDR259C	YPL047W	binding enriched
+YGR252W	YPL047W	binding enriched
+YLR403W	YPL047W	-
+YLR403W	YPL047W	?
+YDL005C	YPL048W	binding enriched
+YIL036W	YPL048W	+
+YIL131C	YPL048W	binding enriched
+YLR403W	YPL048W	+
+YMR037C	YPL048W	binding enriched
+YOR110W	YPL048W	binding enriched
+YOR174W	YPL048W	binding enriched
+YBR081C	YPL075W	binding enriched
+YDR392W	YPL075W	binding enriched
+YDR463W	YPL075W	binding enriched
+YER159C	YPL075W	binding enriched
+YGR104C	YPL075W	binding enriched
+YGR252W	YPL075W	binding enriched
+YIL101C	YPL075W	binding enriched
+YJR127C	YPL075W	binding enriched
+YLR071C	YPL075W	binding enriched
+YLR403W	YPL075W	?
+YNL199C	YPL075W	+
+YPL075W	YPL075W	binding enriched
+YGR252W	YPL089C	binding enriched
+YKL032C	YPL089C	-
+YOR110W	YPL089C	binding enriched
+YPL254W	YPL089C	binding enriched
+YGL073W	YPL128C	+
+YLR403W	YPL128C	?
+YOR110W	YPL133C	binding enriched
+YDR259C	YPL139C	binding enriched
+YOR110W	YPL139C	binding enriched
+YPL139C	YPL139C	+
+YDR253C	YPL177C	bound
+YGR252W	YPL177C	binding enriched
+YLR403W	YPL177C	?
+YNL103W	YPL177C	?
+YOR110W	YPL177C	binding enriched
+YPL254W	YPL177C	binding enriched
+YJL127C	YPL202C	?
+YLR071C	YPL202C	binding enriched
+YLR403W	YPL202C	-
+YGR252W	YPL227C	binding enriched
+YKL032C	YPL227C	+
+YLR403W	YPL227C	-
+YNL216W	YPL227C	binding enriched
+YPR086W	YPL227C	binding enriched
+YBR279W	YPL230W	binding enriched
+YER159C	YPL230W	binding enriched
+YPR086W	YPL230W	binding enriched
+YEL009C	YPL248C	?
+YIL101C	YPL248C	binding enriched
+YOR174W	YPL248C	binding enriched
+YBR279W	YPL254W	binding enriched
+YDL005C	YPL254W	binding enriched
+YOR110W	YPL254W	binding enriched
+YBR112C	YPR008W	binding enriched
+YER159C	YPR008W	binding enriched
+YNL216W	YPR008W	binding enriched
+YOR174W	YPR008W	binding enriched
+YLR403W	YPR013C	-
+YMR164C	YPR013C	?
+YOR110W	YPR013C	binding enriched
+YDR259C	YPR015C	binding enriched
+YDR397C	YPR015C	binding enriched
+YER111C	YPR015C	binding enriched
+YGR252W	YPR015C	binding enriched
+YJL127C	YPR015C	?
+YLR176C	YPR015C	-
+YPR086W	YPR015C	binding enriched
+YDR259C	YPR021C	binding enriched
+YLR176C	YPR021C	binding enriched
+YDL005C	YPR052C	binding enriched
+YGL073W	YPR052C	+
+YIL036W	YPR052C	+
+YJL127C	YPR052C	+
+YNL216W	YPR052C	+
+YPL075W	YPR052C	+
+YDR253C	YPR065W	bound
+YER159C	YPR065W	binding enriched
+YLR071C	YPR065W	binding enriched
+YNL103W	YPR065W	?
+YOR174W	YPR086W	binding enriched
+YDR259C	YPR104C	binding enriched
+YBR049C	YPR133C	binding enriched
+YDR253C	YPR168W	bound
+YNL103W	YPR168W	?
+YAL051W	YPR176C	+
+YDL170W	YPR176C	binding enriched
+YDR259C	YPR176C	binding enriched
+YDR463W	YPR176C	binding enriched
+YDR463W	YPR176C	+
+YER169W	YPR176C	+
+YIL101C	YPR176C	binding enriched
+YML007W	YPR176C	binding enriched
+YPL133C	YPR176C	+
+YLR403W	YPR186C	?
+YIL131C	YPR199C	binding enriched
+YLR403W	YPR199C	-
