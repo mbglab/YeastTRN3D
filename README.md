@@ -33,7 +33,7 @@ Combine TRN and 3D model of the yeast
   * genomic position_3d coordinate.txt (genome position and respective 3D coordinate, derived from the study of Duan (2010, Nature))
 * Code:
   * 2_gene_loc.py
-* Output: (The two output files are too large to be stored here.)
+* Output: 
   * gene_pdbindex.txt (The index of genes in the pdb file)
   * gene_coord.txt (The 3D coordinate of all genes in the genome)
 
@@ -64,7 +64,7 @@ Combine TRN and 3D model of the yeast
 * Code:
   * 1.1_All_gene_3D.py
   * 1.2_linux_dist.py
-* Output:
+* Output: (The two output files are too large to be stored here.)
   * ALL_loc.txt (The genome position of all genes)
   * ALL_dist.txt (The spatial distance of any two genes in the genome)
 
